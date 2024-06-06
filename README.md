@@ -16,11 +16,11 @@ Linkedin: **[Jailson Costa](https://www.linkedin.com/in/jailson-costa-dos-santos
 
 
 <div> 
-  <a href="https://github.com/caioz95/Java/blob/master/src/Manzan/CparaF.java" target="_blank"> C para F </a>
+  <a href="https://github.com/caioz95/java-AT/blob/master/src/Manzan/CparaF.java" target="_blank"> C para F </a>
 
 
 
- <a href="https://github.com/thiagoalves96/Java/blob/master/src/Manzan/PorcentoNulosValidos.java" target="_blank"> PorcentoNulosValidos
+ <a href="https://github.com/caioz95/java-AT/blob/master/src/Manzan/PorcentoNulosValidos.java" target="_blank"> PorcentoNulosValidos
    </a> <br>
     <a href="https://github.com/thiagoalves96/Java/blob/master/src/Manzan/QuadradoDf.java" target="_blank"> QuadradoDiferente</a> <br>
      <a href="https://github.com/thiagoalves96/Java/blob/master/src/Manzan/QuatroValoresInteiros.java" target="_blank"> QuatroValoresInteiros </a> <br>
