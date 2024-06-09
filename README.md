@@ -37,7 +37,7 @@ Linkedin: **[Jailson Costa](https://www.linkedin.com/in/jailson-costa-dos-santos
 ### FACCAT
 
 <div> 
-  <a href=https://github.com/caioz95/java-AT/blob/master/src/exerciciosFaccat/EleitoresPorcento.java" target="_blank"> EleitoresPorcento </a>
+  
 
  <a href="https://github.com/caioz95/java-AT/blob/master/src/exerciciosFaccat/Exercicio05Faccat.java" target="_blank"> Antecessor
    </a> <br>
